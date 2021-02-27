@@ -2,7 +2,7 @@
 require 'User.php';
 require 'helpers.php';
 $obj = new User;
-$cus_id = 1;
+$cus_id = 4;
 
 $loanAmount = extractPostValue('loanAmount');
 
